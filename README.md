@@ -5,6 +5,8 @@ SentireNet is an interactive tool for visualizing the invisible web of ideas. It
 
 It's built on the idea that public discourse is a graph, where concepts are nodes and the edges are weighted by both semantic similarity (how related are two ideas?) and emotional resonance (how do they *feel*?).
 
+![Output](./image.png)
+
 Core Features
 -------------
 
