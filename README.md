@@ -39,7 +39,7 @@ How to Run
 1.  **Clone the repository:**
 
     ```
-    git clone https://github.com/mohammadd13579/sentirenet.git
+    git clone https://github.com/mh-bagheri/sentirenet.git
     cd sentirenet
     ```
 
